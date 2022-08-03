@@ -1,0 +1,12 @@
+syntax:glob
+*.o
+*.pyc
+*.pyo
+*.beam
+.DS_Store
+.noseids
+\#*\#
+.\#*
+Icon\r
+Icon?
+
